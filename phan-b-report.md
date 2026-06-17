@@ -168,14 +168,14 @@ Họ tên: Nguyễn Thái Dương · MSSV: 2A202600823   Pathway: A — Tìm / c
 
 **Dấu hiệu sẽ khiến mình xem lại lựa chọn:**
 
-> Nếu sau 3 tháng Phase 2, mình thấy debug và đọc paper kỹ thuật nặng tiêu hao năng lượng nhiều hơn là tạo ra — và thấy mình thích hỏi "build cái này để làm gì" hơn là "build cái này như thế nào" — thì đó là tín hiệu nên xem lại về hướng T1.
+> Nếu sau Phase 2, mình thấy debug và đọc paper kỹ thuật nặng tiêu hao năng lượng nhiều hơn là tạo ra — và thấy mình thích hỏi "build cái này để làm gì" hơn là "build cái này như thế nào" — thì đó là tín hiệu nên xem lại về hướng T1.
 
 ---
 
 ### ⑤ ĐỊNH HƯỚNG & CHUẨN BỊ
 
 **Định hướng tiếp theo:**
-- Hoàn thiện RAG project từ Phase 1: thêm evaluation layer (Ragas) → có artifact đo được
+- Hoàn thiện project từ Phase 1: thêm evaluation layer (Ragas) → có artifact đo được
 - Build thêm 1 project agent end-to-end có real use case (ví dụ: coding assistant, document QA với multi-turn)
 - Bắt đầu đọc LangGraph advanced patterns trước Phase 2
 
